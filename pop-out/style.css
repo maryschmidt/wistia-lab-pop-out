@@ -1,3 +1,9 @@
+#pop-out-button {
+  width: 50px;
+  height: 50px;
+  background-color: #000;
+}
+
 .paste_embed_code .jamjar_head {
   background-color: #55C6FF;
 }
